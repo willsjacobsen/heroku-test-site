@@ -1,1 +1,1 @@
-This project deploys a static one page website to heroku for the first time.
+This project deploys a static one-page website to heroku for the first time.
